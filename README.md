@@ -19,3 +19,21 @@ This repository is for maintaining project ideas for the Systems and Security SI
 - **References**: 
   - [AWS Lambda Documentation](https://docs.aws.amazon.com/lambda/latest/dg/welcome.html)
   - [Serverless Framework](https://www.serverless.com/)
+
+## 3. P2P File Sharing Tool in Golang
+- **Abstract** - The idea is to build a tool that allows people to share large files directly without having to load them on a third party storage service first. Although there are already a lot of such tools, we are hoping to use Golang's extensive support for concurrency to make it easier and faster to share multiple files and folders at the same time and with multiple recievers.  
+
+- **Features**
+  - Sharing files and folders directly between users
+  - A clean and intuitive CLI tool for a good user experience.
+  - Share files concurrency to a single or multiple recievers.
+  - Ability to open up a temporary data server and allow clients to pick whichever files they want.
+  - Support file compression.
+  - Ability to generate one time share links (once a reciever uses the link its expired)
+  - Allow users to resume pending transfers.
+  - Provide E2E encryption to the users.
+
+- **References**
+  - [fs-cli](https://github.com/spectre10/fs-cli)
+  - [pion/webrtc](https://github.com/pion/webrtc)
+  - [gfile](https://github.com/Antonito/gfile)

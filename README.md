@@ -37,3 +37,11 @@ This repository is for maintaining project ideas for the Systems and Security SI
   - [fs-cli](https://github.com/spectre10/fs-cli)
   - [pion/webrtc](https://github.com/pion/webrtc)
   - [gfile](https://github.com/Antonito/gfile)
+
+## 4. Open Source Mentorship
+- **Abstract** - Instead of a project, we can have an open source mentorship program spanning over 2-3 months where seniors guide the juniors on how to get started with contributing to the Linux kernel or other major open source systems projects. Eventually, this might significantly increase the number of selections from Systems SIG (and wec) in GSoC and LFX.
+
+- **Features**
+    - Regular meets between seniors and juniors (for guidance and tracking progress)
+    - Make solid open source contributions to the linux kernel or any other major open source project
+  

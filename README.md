@@ -65,16 +65,6 @@ Create a unified network for Docker hosts, allowing all containers to communicat
 4. **User-Friendly Interface:** Simplified management and monitoring.
 5. **Monitoring and Logging:** Track performance and activity.
 6. **Security Features:** Robust data protection.
-7. **Documentation and Support:** Comprehensive setup and management guides.
-8. **Community Engagement:** Foster user feedback and contributions.
-
-## 6. Build a Custom OAuth 2.0 Authorization Server
-- **Details**: Create an OAuth 2.0 server to handle secure token issuance, client registration, and access control. Supports standard flows like authorization code and token refresh.
-- **References**: [List of Extensions](https://gist.github.com/joelonsql/e5aa27f8cc9bd22b8999b7de8aee9d47), [Tutorial](https://www.percona.com/blog/writing-postgresql-extensions-is-fun-c-language/), [Postgres docs for extension](https://www.postgresql.org/docs/current/sql-createextension.html).
-
-- Got it! Here’s an updated project idea focused on building a custom OAuth server:
-
----
 
 ## 6. Build Your Own OAuth 2.0 Authorization Server
 

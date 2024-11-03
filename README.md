@@ -90,102 +90,26 @@ Create a unified network for Docker hosts, allowing all containers to communicat
 ## Orbis
 - **Project Idea**: Orbis is a sophisticated event management platform designed to simplify and elevate the experience of organizing, hosting, and participating in events. Originally envisioned for NITK, Orbis is a versatile, open-source solution for institutions, communities, and individuals aiming to streamline event coordination.
 - **Features**: Event Listings, Event Types (tech, non-tech, etc.), Social Sharing, Registration & Application, Admin Approval for Applications, Email Notifications (acceptance/rejection), Project Submission (video, README, GitHub, links), Team Management, Live Updates, Analytics Dashboard, Feedback Collection, Networking Tools (in-app chat, networking spaces).
-- **Organizing SIG**: GDG
-- **Status**: Not Started
-- **Priority**: High
-- **Main Lead**: Mardav
-- **Secondary Lead**: Rohith V
-- **Project Members**: 
-- **Start Date**: 10/26/2024
-- **End Date**: 10/26/2024
-- **Strategy**: 
-- **Key Milestones**: 
-- **Stack & Dependencies**: 
 
 ---
 
 ## Aegis
 - **Project Idea**: Aegis is an open-source platform for hosting Capture The Flag (CTF) competitions, designed to simplify event management and enhance user experience. Built with Django for backend robustness and Next.js for a responsive frontend, Aegis features Docker orchestration to dynamically handle challenge environments.
-- **Features**: TBD
-- **Organizing SIG**: GDG, Systems
-- **Status**: Not Started
-- **Priority**: High
-- **Main Lead**: Apoorva
-- **Secondary Lead**: Mardav
-- **Project Members**: 
-- **Start Date**: 10/26/2024
-- **End Date**: 10/26/2024
-- **Strategy**: 
-- **Key Milestones**: 
-- **Stack & Dependencies**: Django, Next.js, Docker
 
 ---
 
 ## Photography Club Website
 - **Project Idea**: Build the photography club website from scratch (static webpage).
-- **Features**: 
-- **Organizing SIG**: GDG
-- **Status**: Not Started
-- **Priority**: High
-- **Main Lead**: Hariharan
-- **Secondary Lead**: Utkarsh
-- **Project Members**: 
-- **Start Date**: 10/26/2024
-- **End Date**: 10/26/2024
-- **Strategy**: 
-- **Key Milestones**: 
-- **Stack & Dependencies**: 
-
----
-
-## HESC Conference Website
-- **Project Idea**: 
-- **Features**: 
-- **Organizing SIG**: GDG
-- **Status**: Completed
-- **Priority**: High
-- **Main Lead**: Hariharan
-- **Secondary Lead**: Utkarsh
-- **Project Members**: Suyash, Mardav, Utkarsh
-- **Start Date**: 10/30/2024
-- **End Date**: 11/15/2024
-- **Strategy**: 
-- **Key Milestones**: 
-- **Stack & Dependencies**: 
 
 ---
 
 ## WebClub Website Team
 - **Project Idea**: Building new modules, maintaining the website, UI improvements, authentication.
-- **Features**: 
-- **Organizing SIG**: GDG
-- **Status**: In Progress
-- **Priority**: Medium
-- **Main Lead**: Hariharan
-- **Secondary Lead**: Apoorva
-- **Project Members**: Hariharan, Mardav, Apoorva, Aahil, Utkarsh, Fahim, Shubham
-- **Start Date**: 
-- **End Date**: 
-- **Strategy**: 
-- **Key Milestones**: 
-- **Stack & Dependencies**: 
 
 ---
 
 ## HackClub Starter Kit (npx create-hc-app@latest)
 - **Project Idea**: Open-source hackathon starter kit with support for various tech stacks, including dapps, AI-based apps, and simple web apps. Features built-in authentication, layouts, components, and template options.
-- **Features**: 
-- **Organizing SIG**: GDG
-- **Status**: Not Started
-- **Priority**: Medium
-- **Main Lead**: Shubham
-- **Secondary Lead**: 
-- **Project Members**: 
-- **Start Date**: 
-- **End Date**: 
-- **Strategy**: 
-- **Key Milestones**: 
-- **Stack & Dependencies**: 
 
 ---
 

@@ -83,33 +83,56 @@ Create a unified network for Docker hosts, allowing all containers to communicat
     - [File Integrity Monitoring](https://www.varonis.com/blog/file-integrity-monitoring)
 
 
-## GDG Project Ideas
+# GDG Project Ideas
 
-## Orbis
-- **Project Idea**: Orbis is a sophisticated event management platform designed to simplify and elevate the experience of organizing, hosting, and participating in events. Originally envisioned for NITK, Orbis is a versatile, open-source solution for institutions, communities, and individuals aiming to streamline event coordination.
-- **Features**: Event Listings, Event Types (tech, non-tech, etc.), Social Sharing, Registration & Application, Admin Approval for Applications, Email Notifications (acceptance/rejection), Project Submission (video, README, GitHub, links), Team Management, Live Updates, Analytics Dashboard, Feedback Collection, Networking Tools (in-app chat, networking spaces).
+### 1. Orbis
+- **Project Idea**: Orbis is a comprehensive **open-source** event management platform, designed to streamline the experience of organizing, hosting, and participating in events. Originally intended for NITK, Orbis can be adapted for broader institutional and community use as an open-source solution.
+  - **Core Features**:
+    - **Event Listings**: Display events categorized by type (e.g., tech, non-tech).
+    - **Social Sharing**: Simplified sharing of event details on social platforms.
+    - **Registration & Application**: Manage participant registration with admin approvals.
+    - **Notifications**: Automated email notifications for registration status updates.
+    - **Project Submission**: Enable project submissions with links to videos, GitHub repositories, and README files.
+    - **Team Management**: Support for team creation and management.
+    - **Live Updates**: Real-time event updates for participants.
+    - **Analytics Dashboard**: Visualize event data and attendance statistics.
+    - **Feedback Collection**: Collect event feedback from participants.
+    - **Networking Tools**: In-app chat and networking spaces to connect participants.
 
----
+### 2. Aegis (GDG x Systems)
+- **Project Idea**: Aegis is an open-source platform for hosting Capture The Flag (CTF) competitions, developed to simplify event management while enhancing participant experience. Built with Django for backend stability and Next.js for a responsive frontend, Aegis uses Docker orchestration to dynamically manage challenge environments.
+  - **Core Features**:
+    - **User Authentication**: Secure login and access for participants.
+    - **Challenge Management**: Organize and categorize challenges with ease.
+    - **Docker Integration**: Deploy challenge environments seamlessly with Docker.
+    - **Leaderboard**: Track participant progress in real-time with a dynamic leaderboard.
+    - **Admin Dashboard**: Manage challenges, monitor participation, and review results.
+    - **Logging and Monitoring**: Real-time logging and monitoring for smooth operations.
 
-## Aegis (GDG x Systems)
-- **Project Idea**: Aegis is an open-source platform for hosting Capture The Flag (CTF) competitions, designed to simplify event management and enhance user experience. Built with Django for backend robustness and Next.js for a responsive frontend, Aegis features Docker orchestration to dynamically handle challenge environments.
+### 3. Photography Club Website
+- **Project Idea**: Develop a modern website for the photography club with a static, visually engaging layout that highlights member portfolios, events, and club updates.
+  - **Core Features**:
+    - **Portfolio Showcase**: Display member portfolios and featured projects.
+    - **Event Listings**: Announce upcoming events and photo walks.
+    - **Blog Section**: Share tips, photography guides, and club news.
+    - **Responsive Design**: Ensure the site is mobile-friendly and accessible.
 
----
+### 4. WebClub Website Team
+- **Project Idea**: Build and maintain WebClub’s website, adding new features, improving UI, and implementing efficient backend solutions.
+  - **Core Features**:
+    - **Modular Development**: Introduce and maintain new website modules as needed.
+    - **Authentication System**: Update and secure user login and authentication flows.
+    - **UI/UX Enhancements**: Continuously improve the website’s user experience.
+    - **Performance Optimization**: Regular maintenance for performance and load management.
 
-## Photography Club Website
-- **Project Idea**: Build the photography club website from scratch (static webpage).
+### 5. HackClub Starter Kit (npx create-hc-app@latest)
+- **Project Idea**: An open-source hackathon starter kit designed to support various tech stacks, including dApps, AI-based applications, and standard web apps. The kit includes built-in components and template options to simplify hackathon setup and usage.
+  - **Core Features**:
+    - **Multi-tech Stack Compatibility**: Support for dApps, AI, and web applications.
+    - **Built-in Authentication**: Pre-configured authentication options.
+    - **Component Library**: Reusable components for faster development.
+    - **Template Options**: Choose from various project templates to jumpstart hackathon projects.
 
----
-
-## WebClub Website Team
-- **Project Idea**: Building new modules, maintaining the website, UI improvements, authentication.
-
----
-
-## HackClub Starter Kit (npx create-hc-app@latest)
-- **Project Idea**: Open-source hackathon starter kit with support for various tech stacks, including dapps, AI-based apps, and simple web apps. Features built-in authentication, layouts, components, and template options.
-
----
 
 
 

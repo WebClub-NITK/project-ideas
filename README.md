@@ -1,7 +1,6 @@
-# Systems Project Ideas
-This repository is for maintaining project ideas for the Systems and Security SIG.
+# WebClub Project Ideas
 
----
+## Systems & Security SIG Ideas
 
 ## 1. Create a PostgreSQL Database Extension
 - **Details**: Creating an extension for PostgreSQL can be done in C. The usefulness of the extension depends on the problem it aims to solve. For example, we could build an extension that displays the query plan of the SQL engine. Open to additional suggestions for potential functionalities.
@@ -46,7 +45,6 @@ This repository is for maintaining project ideas for the Systems and Security SI
     - Make solid open source contributions to the linux kernel or any other major open source project
   
 
-
 ## 5. Docker Host Integration Tool
 
 ## Overview
@@ -85,7 +83,7 @@ Create a unified network for Docker hosts, allowing all containers to communicat
     - [File Integrity Monitoring](https://www.varonis.com/blog/file-integrity-monitoring)
 
 
-# GDG Project Ideas
+## GDG Project Ideas
 
 ## Orbis
 - **Project Idea**: Orbis is a sophisticated event management platform designed to simplify and elevate the experience of organizing, hosting, and participating in events. Originally envisioned for NITK, Orbis is a versatile, open-source solution for institutions, communities, and individuals aiming to streamline event coordination.
@@ -93,7 +91,7 @@ Create a unified network for Docker hosts, allowing all containers to communicat
 
 ---
 
-## Aegis
+## Aegis (GDG x Systems)
 - **Project Idea**: Aegis is an open-source platform for hosting Capture The Flag (CTF) competitions, designed to simplify event management and enhance user experience. Built with Django for backend robustness and Next.js for a responsive frontend, Aegis features Docker orchestration to dynamically handle challenge environments.
 
 ---

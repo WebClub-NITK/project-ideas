@@ -74,3 +74,44 @@ Create a unified network for Docker hosts, allowing all containers to communicat
     - [RFC 6749: The OAuth 2.0 Authorization Framework](https://tools.ietf.org/html/rfc6749)
     - [Auth0's Guide to OAuth 2.0](https://auth0.com/docs/protocols/protocol-oauth2)
     - [Curity’s OAuth Server Documentation](https://curity.io/resources/learn/)
+
+## 7. eBPF-Based File Integrity Monitoring
+
+- **Abstract**: Argus is a file integrity monitoring tool designed to provide real-time monitoring of file system changes using eBPF (extended Berkeley Packet Filter). Leveraging the power and efficiency of eBPF, Argus offers a lightweight and highly performant solution for detecting and responding to unauthorized modifications, helping ensure the integrity and security of critical files and directories. Argus focuses on low-latency monitoring, enabling quick detection and response for security-critical environments.
+
+- **References**:
+    - [Introduction to eBPF](https://ebpf.io/what-is-ebpf/)
+    - [eBPF Program Types Documentation](https://docs.cilium.io/en/stable/bpf/)
+    - [File Integrity Monitoring](https://www.varonis.com/blog/file-integrity-monitoring)
+
+
+# GDG Project Ideas
+
+## Orbis
+- **Project Idea**: Orbis is a sophisticated event management platform designed to simplify and elevate the experience of organizing, hosting, and participating in events. Originally envisioned for NITK, Orbis is a versatile, open-source solution for institutions, communities, and individuals aiming to streamline event coordination.
+- **Features**: Event Listings, Event Types (tech, non-tech, etc.), Social Sharing, Registration & Application, Admin Approval for Applications, Email Notifications (acceptance/rejection), Project Submission (video, README, GitHub, links), Team Management, Live Updates, Analytics Dashboard, Feedback Collection, Networking Tools (in-app chat, networking spaces).
+
+---
+
+## Aegis
+- **Project Idea**: Aegis is an open-source platform for hosting Capture The Flag (CTF) competitions, designed to simplify event management and enhance user experience. Built with Django for backend robustness and Next.js for a responsive frontend, Aegis features Docker orchestration to dynamically handle challenge environments.
+
+---
+
+## Photography Club Website
+- **Project Idea**: Build the photography club website from scratch (static webpage).
+
+---
+
+## WebClub Website Team
+- **Project Idea**: Building new modules, maintaining the website, UI improvements, authentication.
+
+---
+
+## HackClub Starter Kit (npx create-hc-app@latest)
+- **Project Idea**: Open-source hackathon starter kit with support for various tech stacks, including dapps, AI-based apps, and simple web apps. Features built-in authentication, layouts, components, and template options.
+
+---
+
+
+

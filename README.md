@@ -111,20 +111,22 @@ Create a unified network for Docker hosts, allowing all containers to communicat
 
 ### 2. Aegis (GDG x Systems)
 - **Project Idea**: Aegis is an open-source platform for hosting Capture The Flag (CTF) competitions, designed to simplify event management and enhance user experience. Built with Django for backend robustness and Next.js for a responsive frontend, Aegis features Docker orchestration to dynamically handle challenge environments. This enables event organizers to manage Docker instances directly from the web interface, providing a scalable, customizable solution that can be deployed locally or on the cloud with ease.
-  
+
   - **Core Features**:
-    - **Docker-Orchestrated Challenges**: Each challenge is isolated in a dedicated Docker container, with automated management to start and stop containers based on participant actions, ensuring a secure, reproducible, and efficient environment.
-    - **Customizable and Open-Source**: Allows customization of CTF rules, point systems, and themes. Built with modularity to support plugins and community-driven enhancements.
-    - **User and Team Management**: Provides secure authentication with OAuth and JWT, supports team-based participation, and role-based access control for organized user permissions.
-    - **Web-Based Admin Interface**: A Next.js-based admin dashboard for real-time monitoring, container management, and detailed analytics.
-    - **Portable and Scalable Deployment**: Dockerized for flexible deployment, supporting local or cloud setups, ideal for both small-scale and large online competitions.
+    - **Dynamic Point System**: Includes an optional, toggleable scoring system where the points for each challenge decrease as more participants solve it. This adds a competitive layer, rewarding early solvers.
+    - **Docker-Orchestrated Challenges**: Each challenge runs in its own Docker container, ensuring isolation and automated lifecycle management. Containers start and stop based on participant activity for a secure, reproducible environment.
+    - **Customizable Frontend Configuration**: Provides a web-based admin panel that allows organizers to customize the landing page and interface elements directly through the admin console.
+    - **User and Team Management**: Offers secure authentication with OAuth and JWT, supporting both individual and team-based participation, along with role-based access control for organized permissions.
+    - **Web-Based Admin Interface**: Features a Next.js-powered dashboard for real-time monitoring, container control, and in-depth analytics.
+    - **Portable and Scalable Deployment**: Fully Dockerized for easy deployment on local or cloud servers, making it suitable for small-scale on-site events and large-scale online competitions.
 
   - **Tech Stack/Skills Required/What you'll learn**:
-    - Frontend: Next.js for building dynamic, responsive UIs, CSS frameworks for design
-    - Backend: Django for robust data handling and Docker orchestration, API development
-    - Database: PostgreSQL or MySQL for managing user, team, and event data
-    - Docker: Docker Compose/Swarm for container management, resource allocation controls
-    - Authentication: OAuth and JWT for secure access, user management
+    - **Frontend**: Utilize Next.js to build interactive and responsive UIs, and enhance styling skills with modern CSS frameworks.
+    - **Backend**: Develop with Django for powerful backend data management and integrate Docker for container orchestration and API handling.
+    - **Database**: Gain expertise in PostgreSQL or MySQL to handle user, team, and event data efficiently.
+    - **Docker**: Learn to use Docker and Docker Compose for creating and managing isolated challenge environments.
+    - **Authentication**: Implement secure user authentication using OAuth and JWT for comprehensive user access control.
+
 
 ### 3. Photography Club Website
 - **Project Idea**: Develop a modern website for the photography club with a static, visually engaging layout that highlights member portfolios, events, and club updates.

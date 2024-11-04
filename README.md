@@ -98,16 +98,28 @@ Create a unified network for Docker hosts, allowing all containers to communicat
     - **Analytics Dashboard**: Visualize event data and attendance statistics.
     - **Feedback Collection**: Collect event feedback from participants.
     - **Networking Tools**: In-app chat and networking spaces to connect participants.
+  - **Tech Stack/Skills Required/What you'll learn**:
+    - Frontend: React/Next.js, responsive UI/UX design, CSS frameworks (TailwindCSS)
+    - Backend: Node.js, Express, REST APIs, database management (PostgreSQL/MongoDB)
+    - DevOps: Docker for deployment, basic CI/CD knowledge
+    - Extras: Firebase/Supabase or similar for notifications, basic data visualization (for analytics dashboard)
 
 ### 2. Aegis (GDG x Systems)
-- **Project Idea**: Aegis is an open-source platform for hosting Capture The Flag (CTF) competitions, developed to simplify event management while enhancing participant experience. Built with Django for backend stability and Next.js for a responsive frontend, Aegis uses Docker orchestration to dynamically manage challenge environments.
+- **Project Idea**: Aegis is an open-source platform for hosting Capture The Flag (CTF) competitions, designed to simplify event management and enhance user experience. Built with Django for backend robustness and Next.js for a responsive frontend, Aegis features Docker orchestration to dynamically handle challenge environments. This enables event organizers to manage Docker instances directly from the web interface, providing a scalable, customizable solution that can be deployed locally or on the cloud with ease.
+  
   - **Core Features**:
-    - **User Authentication**: Secure login and access for participants.
-    - **Challenge Management**: Organize and categorize challenges with ease.
-    - **Docker Integration**: Deploy challenge environments seamlessly with Docker.
-    - **Leaderboard**: Track participant progress in real-time with a dynamic leaderboard.
-    - **Admin Dashboard**: Manage challenges, monitor participation, and review results.
-    - **Logging and Monitoring**: Real-time logging and monitoring for smooth operations.
+    - **Docker-Orchestrated Challenges**: Each challenge is isolated in a dedicated Docker container, with automated management to start and stop containers based on participant actions, ensuring a secure, reproducible, and efficient environment.
+    - **Customizable and Open-Source**: Allows customization of CTF rules, point systems, and themes. Built with modularity to support plugins and community-driven enhancements.
+    - **User and Team Management**: Provides secure authentication with OAuth and JWT, supports team-based participation, and role-based access control for organized user permissions.
+    - **Web-Based Admin Interface**: A Next.js-based admin dashboard for real-time monitoring, container management, and detailed analytics.
+    - **Portable and Scalable Deployment**: Dockerized for flexible deployment, supporting local or cloud setups, ideal for both small-scale and large online competitions.
+
+  - **Tech Stack/Skills Required/What you'll learn**:
+    - Frontend: Next.js for building dynamic, responsive UIs, CSS frameworks for design
+    - Backend: Django for robust data handling and Docker orchestration, API development
+    - Database: PostgreSQL or MySQL for managing user, team, and event data
+    - Docker: Docker Compose/Swarm for container management, resource allocation controls
+    - Authentication: OAuth and JWT for secure access, user management
 
 ### 3. Photography Club Website
 - **Project Idea**: Develop a modern website for the photography club with a static, visually engaging layout that highlights member portfolios, events, and club updates.
@@ -116,6 +128,10 @@ Create a unified network for Docker hosts, allowing all containers to communicat
     - **Event Listings**: Announce upcoming events and photo walks.
     - **Blog Section**: Share tips, photography guides, and club news.
     - **Responsive Design**: Ensure the site is mobile-friendly and accessible.
+  - **Tech Stack/Skills Required/What you'll learn**:
+    - Frontend: Next.js/React, Tailwind CSS, Shadcn, Aceternity UI, Magic UI etc
+    - Design: Basic UI/UX principles, familiarity with Figma or Adobe XD for creating mockups (optional, but good to have)
+    - Extras: SEO optimization, basic image optimization techniques (for faster loading)
 
 ### 4. WebClub Website Team
 - **Project Idea**: Build and maintain WebClub’s website, adding new features, improving UI, and implementing efficient backend solutions.
@@ -132,6 +148,12 @@ Create a unified network for Docker hosts, allowing all containers to communicat
     - **Built-in Authentication**: Pre-configured authentication options.
     - **Component Library**: Reusable components for faster development.
     - **Template Options**: Choose from various project templates to jumpstart hackathon projects.
+  - ***Tech Stack/Skills Required/What you'll learn**:
+    - Frontend: React/Nextjs, CSS frameworks, component-based development
+    - Backend: Node.js, Express, authentication protocols (OAuth, JWT)
+    - Blockchain (optional): Solidity or similar for dApps, Web3.js or ethers.js for Ethereum integration
+    - AI/Machine Learning (optional): Basic knowledge of integrating ML models if AI features are desired
+    - Extras: Git for version control, familiarity with setting up hackathon-ready templates
 
 
 

@@ -1,5 +1,10 @@
 # WebClub Project Ideas
 
+## Table of Contents
+
+1. [Systems & Security SIG Ideas](#systems-&-security-sig-ideas)
+2. [GDG Project Ideas](#gdg-project-ideas)
+
 ## Systems & Security SIG Ideas
 
 ## 1. Create a PostgreSQL Database Extension

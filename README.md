@@ -155,6 +155,32 @@ Create a unified network for Docker hosts, allowing all containers to communicat
     - AI/Machine Learning (optional): Basic knowledge of integrating ML models if AI features are desired
     - Extras: Git for version control, familiarity with setting up hackathon-ready templates
 
+### 6. Huntly (Maintenance & Improvement)
+
+- **Project Idea**: Huntly is a cross-platform mobile application that facilitates real-world treasure hunts, encouraging participants to explore their surroundings and build connections. **This application is already built, but we need people to maintain, improve, and adapt it for college-wide use at meetups and events**. Huntly organizes treasure hunts with rewards, themed clues, and team-building elements powered by machine learning. The app offers both preset and customizable clues, unlocked via QR code scanning or verified through location tracking, with memory threads for users to share photos of their experiences.
+
+  - **Core Features**:
+    - **User Authentication and Profile Builder**: Users sign in with Google OAuth, set up profiles, and join or create hunts.
+    - **Search and Organize Hunts**: Users can search for available hunts or organize their own using preset or custom clues.
+    - **Clue Verification**: Features QR code scanning and location tracking for clue verification.
+    - **Team Formation**: Uses K-Means clustering to match users with like-minded teammates for a collaborative experience.
+    - **Leaderboard and Rewards**: Tracks and ranks team progress with rewards for top teams.
+    - **Memory Threads**: Allows users to capture photos with teammates, creating a shared digital memory of the event.
+  
+  - **Skills Required**:
+    - **Frontend**: **Flutter** for cross-platform mobile development on **Android/iOS**
+    - **Backend**: Django Rest Framework and Flask for API development, including reward and memory management
+    - **Packages**: Geolocator for location tracking, QR Code Scanner, Swagger for API documentation
+    - **Machine Learning**: nltk and sklearn for team clustering algorithms
+    - **Design**: Figma for app wireframing and prototyping
+    - **Version Control**: Git/GitHub for collaboration and code management
+   
+  - **Github Repo** - https://github.com/Team-Huntly/Huntly
+    
+   
+    
+
+
 
 
 
